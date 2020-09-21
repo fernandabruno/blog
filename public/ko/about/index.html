@@ -554,9 +554,9 @@
 
   
     
-    var baseurl = JSON.parse("\"/\"");
+    var baseurl = JSON.parse("\"http://example.org\"");
     
-    var permalink = JSON.parse("\"/ko/about/\"");
+    var permalink = JSON.parse("\"http://example.org/ko/about/\"");
     
     var langprefix = JSON.parse("\"/ko\"");
     var searchResults = null;
@@ -1233,7 +1233,7 @@
 
 <meta property="og:site_name" content="Hugo Zzo Theme">
 <meta property="og:title" content="About">
-<meta property="og:url" content="/ko/about/">
+<meta property="og:url" content="http://example.org/ko/about/">
 <meta property="og:type" content="article">
 <meta property="og:description" content="About Page">
 
@@ -1246,7 +1246,7 @@
 
 <meta name="apple-mobile-web-app-status-bar-style" content="#fff">
 
-<link rel="canonical" href="/ko/about/">
+<link rel="canonical" href="http://example.org/ko/about/">
 
 <link rel="manifest" href="/manifest.json">
 
@@ -1275,16 +1275,16 @@
     "headline": "About",
     "datePublished": "2019-10-09T11:44:14+09:00",
     "dateModified": "2019-10-09T11:44:14+09:00",
-    "url" : "/ko/about/",
+    "url" : "http://example.org/ko/about/",
     "description": "About Page",
     "mainEntityOfPage": {
       "@type": "WebPage",
-      "@id": "/"
+      "@id": "http://example.org"
     },
     "publisher": {
       "@type": "Organization",
       "name": "Hugo Zzo Theme",
-      "url": "/"
+      "url": "http://example.org"
     }
   }
 </script>
@@ -1320,12 +1320,12 @@
             <nav class="navbar" role="navigation" aria-label="main navigation" data-dir="ltr">
   <div class="navbar__brand">
     
-    <a href="/ko" title="홈페이지" rel="home" class="navbar__logo-link">
+    <a href="/ko/" title="홈페이지" rel="home" class="navbar__logo-link">
       <img src="/logo.png" alt="Home" class="navbar__logo">
     </a>
     
     
-      <a href="/ko" title="홈페이지" rel="home" class="navbar__title-link">
+      <a href="/ko/" title="홈페이지" rel="home" class="navbar__title-link">
         <h6 class="navbar__title">Poptistics</h6>
       </a>
     
@@ -1603,7 +1603,7 @@
         
           
             
-              <a href="/en/about/" data-lang="en" class="dropdown-item">English</a>
+              <a href="http://example.org/en/about/" data-lang="en" class="dropdown-item">English</a>
             
           
         
@@ -1619,7 +1619,7 @@
         
           
             
-              <a href="/ko/about/" data-lang="ko" class="dropdown-item is-active">한국어</a>
+              <a href="http://example.org/ko/about/" data-lang="ko" class="dropdown-item is-active">한국어</a>
             
           
         

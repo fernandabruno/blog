@@ -3,162 +3,162 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/ko/</loc>
+    <loc>http://example.org/ko/</loc>
     <lastmod>2019-10-19T11:44:14+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/"
+                href="http://example.org/en/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
-                href="/ko/"
+                href="http://example.org/ko/"
                 />
   </url>
   
   <url>
-    <loc>/ko/archive/</loc>
+    <loc>http://example.org/ko/archive/</loc>
     <lastmod>2019-10-19T11:44:14+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/archive/"
+                href="http://example.org/en/archive/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
-                href="/ko/archive/"
+                href="http://example.org/ko/archive/"
                 />
   </url>
   
   <url>
-    <loc>/ko/about/</loc>
+    <loc>http://example.org/ko/about/</loc>
     <lastmod>2019-10-09T11:44:14+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/about/"
+                href="http://example.org/en/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
-                href="/ko/about/"
+                href="http://example.org/ko/about/"
                 />
   </url>
   
   <url>
-    <loc>/ko/gallery/</loc>
+    <loc>http://example.org/ko/gallery/</loc>
     <lastmod>2018-10-12T10:20:16+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/gallery/"
+                href="http://example.org/en/gallery/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
-                href="/ko/gallery/"
+                href="http://example.org/ko/gallery/"
                 />
   </url>
   
   <url>
-    <loc>/ko/gallery/photo/</loc>
+    <loc>http://example.org/ko/gallery/photo/</loc>
     <lastmod>2018-10-12T10:20:16+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/gallery/photo/"
+                href="http://example.org/en/gallery/photo/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
-                href="/ko/gallery/photo/"
+                href="http://example.org/ko/gallery/photo/"
                 />
   </url>
   
   <url>
-    <loc>/ko/gallery/cartoon/</loc>
+    <loc>http://example.org/ko/gallery/cartoon/</loc>
     <lastmod>2018-10-11T10:20:16+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/gallery/cartoon/"
+                href="http://example.org/en/gallery/cartoon/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
-                href="/ko/gallery/cartoon/"
+                href="http://example.org/ko/gallery/cartoon/"
                 />
   </url>
   
   <url>
-    <loc>/ko/categories/</loc>
+    <loc>http://example.org/ko/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/categories/"
+                href="http://example.org/en/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
-                href="/ko/categories/"
+                href="http://example.org/ko/categories/"
                 />
   </url>
   
   <url>
-    <loc>/ko/tags/index/</loc>
+    <loc>http://example.org/ko/tags/index/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/tags/index/"
+                href="http://example.org/en/tags/index/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
-                href="/ko/tags/index/"
+                href="http://example.org/ko/tags/index/"
                 />
   </url>
   
   <url>
-    <loc>/ko/posts/</loc>
+    <loc>http://example.org/ko/posts/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/posts/"
+                href="http://example.org/en/posts/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
-                href="/ko/posts/"
+                href="http://example.org/ko/posts/"
                 />
   </url>
   
   <url>
-    <loc>/ko/series/</loc>
+    <loc>http://example.org/ko/series/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/series/"
+                href="http://example.org/en/series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
-                href="/ko/series/"
+                href="http://example.org/ko/series/"
                 />
   </url>
   
   <url>
-    <loc>/ko/tags/</loc>
+    <loc>http://example.org/ko/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/tags/"
+                href="http://example.org/en/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
-                href="/ko/tags/"
+                href="http://example.org/ko/tags/"
                 />
   </url>
   
