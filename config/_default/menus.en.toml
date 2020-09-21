@@ -1,0 +1,29 @@
+[[main]]
+  identifier = "sobre"
+  name = "Sobre"
+  url = "about"
+  weight = 1
+
+[[main]]
+  identifier = "posts"
+  name = "Posts"
+  url = "posts"
+  weight = 2
+
+[[main]]
+  identifier = "talks"
+  name = "Talks"
+  url = "presentation"
+  weight = 3
+
+[[main]]
+  identifier = "projetos"
+  name = "Projetos"
+  url = "showcase"
+  weight = 4
+
+[[main]]
+  identifier = "publication"
+  name = "Pub"
+  url = "publication"
+  weight = 5
