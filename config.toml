@@ -1,4 +1,4 @@
-baseURL = "http://example.org"
+baseURL = "https://poptistics.netlify.app"
 title = "Hugo Zzo Theme"
 theme = "hugo-theme-zzo"
 
